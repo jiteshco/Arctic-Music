@@ -44,7 +44,7 @@ module.exports = {
           { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' },
           { name: '📃 playlist', value: 'manage the playlists' }
         )
-        .setImage(`https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=654f37ba&is=653cc2ba&hm=648a2e070fab36155f4171962e9c3bcef94857aca3987a181634837231500177&`); 
+        .setImage(`https://images-ext-1.discordapp.net/external/9tDO5EvsUQY4pH0-JruVfdmh5nXDMruv6kyVb70g0ss/%3Fsize%3D1024/https/cdn.discordapp.com/icons/976495105622016021/1c7ac6fe9c8d3a90e99367ea4bf2ed55.png?format=webp&quality=lossless&width=80&height=80`); 
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
@@ -57,7 +57,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1150827819547504741/1168917372267151370/standard.gif?ex=65538222&is=65410d22&hm=b4994392f44679da41fc9304eb69deaa3769e136057556deec0db69ae8d33a97&')
+       .setImage('https://images-ext-1.discordapp.net/external/9tDO5EvsUQY4pH0-JruVfdmh5nXDMruv6kyVb70g0ss/%3Fsize%3D1024/https/cdn.discordapp.com/icons/976495105622016021/1c7ac6fe9c8d3a90e99367ea4bf2ed55.png?format=webp&quality=lossless&width=80&height=80')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
         .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
